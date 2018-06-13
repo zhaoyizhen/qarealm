@@ -38,3 +38,8 @@
   首先网站的LOGO难到我了。我决定下载个Photoshop自己P图设计Logo。<br>
 ***
 **Photoshop设计LOGO记录**
+***
+**之后感觉Linux环境配置起来太难了。我又回归Windows了。<br>
+**使用Windows的IIS服务器，网上找的源码搭建了网站。<br>
+**但是这种网站并不是自己真正想要的。<br>
+**纠结中...<br>
