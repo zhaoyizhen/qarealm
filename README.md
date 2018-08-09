@@ -44,3 +44,11 @@
   使用Windows的IIS服务器，网上找的源码搭建了网站。<br>
   但是这种网站并不是自己真正想要的。<br>
   纠结中...<br>
+***
+**开发语言**
+  我决定使用Python作为开发语言去开发程序。<br>
+  但是我要学习Python，我还不会用Django。<br>
+***
+**开发环境**
+  我找到了个用windows使用Django的视频。<br>
+  开发环境使用Pycharm+Mysql+Virtualenv。<br>
